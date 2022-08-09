@@ -138,7 +138,7 @@ html {
 .about__paragraph{
     line-height: 1.5;
     margin-bottom: 1.5rem;
-}
+  }
 .about__img{
     width: 50%;
     text-align: center;
@@ -270,18 +270,18 @@ html {
 
 .curso1{
     align-self: flex-start;
-}
-
-.curso2{
-    align-self: center;
-}
-
-.curso3{
-    align-self: flex-end;
-    margin-right: 50px;
-    margin-bottom: 50px;
-}
-
+    }
+    
+    .curso2{
+        align-self: center;
+    }
+    
+    .curso3{
+        align-self: flex-end;
+        margin-right: 50px;
+        margin-bottom: 50px;
+    }
+    
 .cursos img{
     height: 120px;
     width: 120px;
@@ -299,7 +299,7 @@ html {
 .languages__picture{
     width: 20%;
     height: 100px;
-}
+    }
 /* End of LANGUAGES styles */
 
 
